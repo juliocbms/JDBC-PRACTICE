@@ -4,7 +4,7 @@ Este projeto tem como objetivo demonstrar o uso da API JDBC (Java Database Conne
 
 ---
 
-## 📚 Funcionalidades Implementadas
+## Funcionalidades Implementadas
 
 - Conexão com banco de dados MySQL usando JDBC
 - Execução de comandos SQL com `Statement` e `PreparedStatement`
@@ -16,7 +16,7 @@ Este projeto tem como objetivo demonstrar o uso da API JDBC (Java Database Conne
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **Java 21+**
 - **MySQL**
